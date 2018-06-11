@@ -1,5 +1,5 @@
 # Overview
-Create a gulp project. 
+Project1: Todolist 
 
 # Quickstart
 1. Install Node.js
