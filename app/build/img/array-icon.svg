@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/editor/format_line_spacing_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.25,7 L8.75,7 L5.25,3.5 L1.75,7 L4.25,7 L4.25,17 L1.75,17 L5.25,20.5 L8.75,17 L6.25,17 L6.25,7 Z M10.25,5 L10.25,7 L22.25,7 L22.25,5 L10.25,5 Z M10.25,19 L22.25,19 L22.25,17 L10.25,17 L10.25,19 Z M10.25,13 L22.25,13 L22.25,11 L10.25,11 L10.25,13 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="待辦事項" transform="translate(-321.000000, -603.000000)">
+            <g id="Bars/bottom" transform="translate(0.000000, 556.000000)">
+                <g id="icon/editor/format_line_spacing_24px" transform="translate(320.000000, 44.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g fill-rule="nonzero"></g>
+                    <g id="✱-/-Color-/-Icons-/-Selected-/-On-Primary-/-Active-" mask="url(#mask-2)" fill="#F5F5F5" fill-rule="evenodd">
+                        <rect id="Rectangle-3" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
